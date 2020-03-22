@@ -1,5 +1,5 @@
 ---------------------------------------------
-Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-03-22_07-12-13.log started at 22.03. 07:12:14
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-03-22_15-50-53.log started at 22.03. 15:50:54
 
 SCRIPT       : Registered 237 temporary action enum(s), UAN==237
 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CreateLobby'
@@ -85,7 +85,6 @@ SCRIPT       : Init: PluginBaseBuildingLogs
 SCRIPT       : CommunityOnlineTools::CommunityOnlineTools
 SCRIPT       : VersionPath: 
 SCRIPT       : Community Online Tools is running on version 
-SCRIPT       : [BBP] 'BBP_Settings' does not exist, creating...
 SCRIPT       : [BBP] 'BBP_Settings' found, loading...
 SCRIPT       : string str =  '[TRADER] DEBUG START'
 SCRIPT       : string str =  '[TRADER] READING OBJECT TYPE ENTRY..'
@@ -1783,25 +1782,26 @@ SCRIPT       : string str =  '[TRADER] READING ADMIN PLAYER UID ENTRY..'
 SCRIPT       : string str =  '[TRADER] READING ADMIN PLAYER UID ENTRY..'
 SCRIPT       : string str =  '[TRADER] READING ADMIN PLAYER UID ENTRY..'
 SCRIPT       : string str =  '[TRADER] DEBUG END'
-SCRIPT       : Enoch::Weather::Overcast:: ( 6.98541 )  overcast: 0.080224
-SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 6.98541 ) 0
-SCRIPT       : m_Player.m_HealthLevel:0
-SCRIPT       : m_Player.m_HealthLevel:0
+SCRIPT       : Enoch::Weather::Overcast:: ( 6.98559 )  overcast: 0.0398834
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 6.98559 ) 0
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : [syncinv] warning, lambda cannot be executed, skipping!
 SCRIPT       : [syncinv] warning, lambda cannot be executed, skipping!
 SCRIPT       : [syncinv] warning, lambda cannot be executed, skipping!
+SCRIPT       : m_Player.m_HealthLevel:0
+SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : [syncinv] warning, lambda cannot be executed, skipping!
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.03532 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.33483 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.63432 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.93381 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.2333 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.53279 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.83228 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.13178 ) 0 -> 0
+SCRIPT       : [syncinv] warning, lambda cannot be executed, skipping!
+SCRIPT       : [syncinv] warning, lambda cannot be executed, skipping!
+SCRIPT       : [syncinv] warning, lambda cannot be executed, skipping!
+SCRIPT       : [syncinv] warning, lambda cannot be executed, skipping!
+SCRIPT       : [syncinv] warning, lambda cannot be executed, skipping!
+SCRIPT       : [syncinv] warning, lambda cannot be executed, skipping!
+SCRIPT       : [syncinv] warning, lambda cannot be executed, skipping!
+SCRIPT       : [syncinv] warning, lambda cannot be executed, skipping!
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.03523 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.33478 ) 0 -> 0
 SCRIPT       : PermissionsFramework::~PermissionsFramework
 SCRIPT       : ~PluginBaseBuildingLogs Closed
 SCRIPT       : CommunityOnlineTools::~CommunityOnlineTools
 SCRIPT       : ~DayZGame()
-
