@@ -7,7 +7,7 @@
 @echo off
 
 :: *********************** General Settings *************************
-SET DEBUG=2
+SET DEBUG=4
 
 SET DRIVE=D
 SET PARENTFOLDER=DayZServers
@@ -43,21 +43,21 @@ SET DAYZSA=%MYPATH:~0,-1%
 call git config --global user.email "%GITEMAIL%"
 call git config --global user.name "%GITNAME%"
 
-:: Pull Changes
-echo Remote Repo is being checked for changes.... please hold tight
-call git pull
-
-:: Commit Logs
-timeout 4
 
 cd /d %DAYZSA%
 echo %DAYZSA%
+:: Pull Changes
+echo Remote Repo is being checked for changes.... please hold tight
+call git pull
+timeout %DEBUG%
+
+:: Commit Logs
 echo Test Instance is being checked for new logs.... please hold tight
 call git add .
 call git commit -m "Server Logs Commit-%TIME%"
 call git push
 
 echo All logs have been sent to repo
-timeout 4
+timeout %DEBUG%
 
 @exit
