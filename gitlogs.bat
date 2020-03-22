@@ -43,6 +43,10 @@ SET DAYZSA=%MYPATH:~0,-1%
 call git config --global user.email "%GITEMAIL%"
 call git config --global user.name "%GITNAME%"
 
+:: Pull Changes
+echo Remote Repo is being checked for changes.... please hold tight
+call git pull
+
 :: Commit Logs
 timeout 4
 
