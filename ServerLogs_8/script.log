@@ -1,5 +1,9 @@
 ---------------------------------------------
+<<<<<<< HEAD
 Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-03-23_14-56-36.log started at 23.03. 14:56:37
+=======
+Log D:\DayZServers\TheCommunity_enoch\TheEnochServer\script_2020-03-23_16-37-46.log started at 23.03. 16:37:47
+>>>>>>> f07cd4f78294ca8bbe6a9d22a66e6ff3e2c43be8
 
 SCRIPT       : Registered 237 temporary action enum(s), UAN==237
 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CreateLobby'
@@ -1783,6 +1787,7 @@ SCRIPT       : string str =  '[TRADER] READING ADMIN PLAYER UID ENTRY..'
 SCRIPT       : string str =  '[TRADER] READING ADMIN PLAYER UID ENTRY..'
 SCRIPT       : string str =  '[TRADER] READING ADMIN PLAYER UID ENTRY..'
 SCRIPT       : string str =  '[TRADER] DEBUG END'
+<<<<<<< HEAD
 SCRIPT       : Enoch::Weather::Overcast:: ( 6.98536 )  overcast: 0.0277834
 SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 6.98536 ) 0
 SCRIPT       : m_Player.m_HealthLevel:0
@@ -1808,12 +1813,29 @@ SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.33501 ) 0 -> 0
 SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.63481 ) 0 -> 0
 SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.93432 ) 0 -> 0
 SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.23382 ) 0 -> 0
+=======
+SCRIPT       : Enoch::Weather::Overcast:: ( 6.98545 )  overcast: 0.0450056
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 6.98545 ) 0
+SCRIPT       : m_Player.m_HealthLevel:0
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=ATTACHMENT item=Sedan_02_Wheel:017081 parent=Sedan_02_Grey:017079 slot=561376701 }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=ATTACHMENT item=Sedan_02_Wheel:017080 parent=Sedan_02_Grey:017079 slot=561376700 }
+SCRIPT       : m_Player.m_HealthLevel:0
+SCRIPT       : m_Player.m_HealthLevel:0
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=ATTACHMENT item=Sedan_02_Wheel:017065 parent=Sedan_02:017063 slot=561376701 }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=ATTACHMENT item=Sedan_02_Wheel:017064 parent=Sedan_02:017063 slot=561376700 }
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.03536 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.33487 ) 0 -> 0
+>>>>>>> f07cd4f78294ca8bbe6a9d22a66e6ff3e2c43be8
 SCRIPT       : PermissionsFramework::~PermissionsFramework
 SCRIPT       : ~PluginBaseBuildingLogs Closed
 SCRIPT       : CommunityOnlineTools::~CommunityOnlineTools
 SCRIPT       : ~DayZGame()
 ---------------------------------------------
+<<<<<<< HEAD
 Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-03-23_15-13-12.log started at 23.03. 15:13:12
+=======
+Log D:\DayZServers\TheCommunity_enoch\TheEnochServer\script_2020-03-23_16-42-58.log started at 23.03. 16:42:58
+>>>>>>> f07cd4f78294ca8bbe6a9d22a66e6ff3e2c43be8
 
 SCRIPT       : Registered 237 temporary action enum(s), UAN==237
 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CreateLobby'
@@ -3597,6 +3619,7 @@ SCRIPT       : string str =  '[TRADER] READING ADMIN PLAYER UID ENTRY..'
 SCRIPT       : string str =  '[TRADER] READING ADMIN PLAYER UID ENTRY..'
 SCRIPT       : string str =  '[TRADER] DEBUG END'
 SCRIPT       : m_Player.m_HealthLevel:0
+<<<<<<< HEAD
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : [syncinv] warning, lambda cannot be executed, skipping!
@@ -3606,12 +3629,22 @@ SCRIPT       : [syncinv] warning, lambda cannot be executed, skipping!
 SCRIPT       : [syncinv] warning, lambda cannot be executed, skipping!
 SCRIPT       : [syncinv] warning, lambda cannot be executed, skipping!
 SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.28052 ) 0 -> 0
+=======
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=ATTACHMENT item=Hatchback_02_Wheel:04539 parent=Hatchback_02_Black:04538 slot=-1347708810 }
+SCRIPT       : m_Player.m_HealthLevel:0
+SCRIPT       : m_Player.m_HealthLevel:0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.23924 ) 0 -> 0
+>>>>>>> f07cd4f78294ca8bbe6a9d22a66e6ff3e2c43be8
 SCRIPT       : PermissionsFramework::~PermissionsFramework
 SCRIPT       : ~PluginBaseBuildingLogs Closed
 SCRIPT       : CommunityOnlineTools::~CommunityOnlineTools
 SCRIPT       : ~DayZGame()
 ---------------------------------------------
+<<<<<<< HEAD
 Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-03-23_15-19-25.log started at 23.03. 15:19:25
+=======
+Log D:\DayZServers\TheCommunity_enoch\TheEnochServer\script_2020-03-23_16-47-40.log started at 23.03. 16:47:40
+>>>>>>> f07cd4f78294ca8bbe6a9d22a66e6ff3e2c43be8
 
 SCRIPT       : Registered 237 temporary action enum(s), UAN==237
 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CreateLobby'
@@ -5394,6 +5427,7 @@ SCRIPT       : string str =  '[TRADER] READING ADMIN PLAYER UID ENTRY..'
 SCRIPT       : string str =  '[TRADER] READING ADMIN PLAYER UID ENTRY..'
 SCRIPT       : string str =  '[TRADER] READING ADMIN PLAYER UID ENTRY..'
 SCRIPT       : string str =  '[TRADER] DEBUG END'
+<<<<<<< HEAD
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
@@ -12643,12 +12677,22 @@ SCRIPT       : Enoch::Weather::Rain:: ( 9.3911 ) 0.16249
 SCRIPT       : Enoch::Weather::Overcast:: ( 9.53395 )  overcast: 0.676305
 SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 9.53395 ) 0.0372631
 SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.77499 ) 0 -> 0
+=======
+SCRIPT       : [syncinv] warning, lambda cannot be executed, skipping!
+SCRIPT       : m_Player.m_HealthLevel:0
+SCRIPT       : m_Player.m_HealthLevel:0
+SCRIPT       : m_Player.m_HealthLevel:0
+>>>>>>> f07cd4f78294ca8bbe6a9d22a66e6ff3e2c43be8
 SCRIPT       : PermissionsFramework::~PermissionsFramework
 SCRIPT       : ~PluginBaseBuildingLogs Closed
 SCRIPT       : CommunityOnlineTools::~CommunityOnlineTools
 SCRIPT       : ~DayZGame()
 ---------------------------------------------
+<<<<<<< HEAD
 Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-03-23_17-56-54.log started at 23.03. 17:56:54
+=======
+Log D:\DayZServers\TheCommunity_enoch\TheEnochServer\script_2020-03-23_16-51-03.log started at 23.03. 16:51:03
+>>>>>>> f07cd4f78294ca8bbe6a9d22a66e6ff3e2c43be8
 
 SCRIPT       : Registered 237 temporary action enum(s), UAN==237
 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CreateLobby'
@@ -14434,6 +14478,7 @@ SCRIPT       : string str =  '[TRADER] DEBUG END'
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
+<<<<<<< HEAD
 SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.14697 ) 0 -> 0
 SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.44678 ) 0 -> 0
 SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.74663 ) 0 -> 0
@@ -14445,4 +14490,33 @@ SCRIPT       : Enoch::Weather::Overcast:: ( 9.18135 )  overcast: 0
 SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 9.18135 ) 0
 SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.24412 ) 0 -> 0
 SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.54361 ) 0 -> 0
+=======
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.07155 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.37117 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.67066 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.97015 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.26964 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.56913 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 8.66159 )  overcast: 0.0279543
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 8.66159 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.86862 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.16811 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.4676 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.76709 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 10.0666 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 10.2631 )  overcast: 0.496966
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 10.2631 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 10.3661 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 10.6656 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 10.9651 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 11.2645 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 11.564 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 11.8635 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 12.163 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 12.4625 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 12.762 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 13.0615 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 13.0678 )  overcast: 0.137974
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 13.0678 ) 0
+>>>>>>> f07cd4f78294ca8bbe6a9d22a66e6ff3e2c43be8
 
