@@ -1,0 +1,23 @@
+---------------------------------------------
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\crash_2020-04-02_11-37-22.log started at 02.04. 11:38:04
+
+
+
+------------------------------------
+R16RK4U17-3, 02.04 2020 11:38:04
+
+JSON ERROR:
+Expect a value here.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/3_Game/tools\jsonfileloader.c:29
+Airdrop/scripts/4_World/airdropsettings.c:297
+Airdrop/scripts/4_World/airdrop.c:44
+Airdrop/scripts/4_World/airdrop.c:384
+Airdrop/scripts/5_Mission/airdropinit.c:9
+$CurrentDir:mpmissions\TheCommunity.enoch\init.c:91
+
+Runtime mode
+CLI params: port 2442 mod @CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VanillaPlusPlusMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@Unlimited_Stamina;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv_PACK_4; config D:\DayZServers\TheCommunity_enochTest\TheCommunityDZTest.cfg profiles TheEnochTestServer BEPath D:\DayZServers\TheCommunity_enochTest\battleye filePatching  adminlog  netlog  freezecheck  scrAllowFileWrite  
+
