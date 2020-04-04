@@ -1,5 +1,5 @@
 ---------------------------------------------
-Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-04_01-21-26.log started at 04.04. 01:21:26
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-04_02-28-39.log started at 04.04. 02:28:39
 
 SCRIPT       : Registered 246 temporary action enum(s), UAN==246
 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CreateLobby'
@@ -1815,27 +1815,10 @@ SCRIPT       : string str =  '[TRADER] DEBUG END'
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.02378 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Overcast:: ( 7.25787 )  overcast: 0.0316915
-SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 7.25787 ) 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.32356 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.62336 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.92285 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain:: ( 8.22234 ) 0
-SCRIPT       : Enoch::Weather::Rain:: ( 8.32238 ) 0.193249
-SCRIPT       : Enoch::Weather::Rain:: ( 8.44243 ) 0.318839
-SCRIPT       : Enoch::Weather::Rain:: ( 8.62418 ) 0.350761
-SCRIPT       : Enoch::Weather::Overcast:: ( 8.64579 )  overcast: 0.795575
-SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 8.64579 ) 0.358491
-SCRIPT       : Enoch::Weather::Rain:: ( 8.80426 ) 0.415164
-SCRIPT       : Enoch::Weather::Rain:: ( 9.00268 ) 0.361942
-SCRIPT       : Enoch::Weather::Rain:: ( 9.1911 ) 0.0889252
-SCRIPT       : Enoch::Weather::Rain:: ( 9.36618 ) 0.20789
-SCRIPT       : Enoch::Weather::Rain:: ( 9.49623 ) 0.147426
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.63796 ) 0.172176 -> 0
-SCRIPT       : PermissionsFramework::~PermissionsFramework
-SCRIPT       : ~PluginBaseBuildingLogs Closed
-SCRIPT       : CommunityOnlineTools::~CommunityOnlineTools
-SCRIPT       : ~DayZGame()
-SCRIPT       : ::: FIDOvPACK4: UnInit
+SCRIPT       : Enoch::Weather::Overcast:: ( 7.13138 )  overcast: 0.0475712
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 7.13138 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.13968 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.43947 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.73925 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain:: ( 8.03874 ) 0
 
