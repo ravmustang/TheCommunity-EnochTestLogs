@@ -1,5 +1,5 @@
 ---------------------------------------------
-Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-04_06-57-46.log started at 04.04. 06:57:46
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-04_08-04-46.log started at 04.04. 08:04:46
 
 SCRIPT       : Registered 246 temporary action enum(s), UAN==246
 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CreateLobby'
@@ -1815,23 +1815,8 @@ SCRIPT       : string str =  '[TRADER] DEBUG END'
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.09864 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.39843 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Overcast:: ( 7.50581 )  overcast: 0.0865645
-SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 7.50581 ) 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.69826 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.99775 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.29724 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.59673 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.89622 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.19571 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.4952 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Overcast:: ( 9.75359 )  overcast: 0.145885
-SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 9.75359 ) 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.79469 ) 0 -> 0
-SCRIPT       : PermissionsFramework::~PermissionsFramework
-SCRIPT       : ~PluginBaseBuildingLogs Closed
-SCRIPT       : CommunityOnlineTools::~CommunityOnlineTools
-SCRIPT       : ~DayZGame()
-SCRIPT       : ::: FIDOvPACK4: UnInit
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.01447 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.31426 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.61406 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.91356 ) 0 -> 0
 
