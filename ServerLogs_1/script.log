@@ -1,5 +1,5 @@
 ---------------------------------------------
-Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-04_17-02-36.log started at 04.04. 17:02:45
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-04_17-36-20.log started at 04.04. 17:36:20
 
 SCRIPT       : Registered 246 temporary action enum(s), UAN==246
 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CreateLobby'
@@ -71,7 +71,6 @@ SCRIPT    (W): @"Nine\compass\scripts\4_World/тўЭь*ёЬъй..c,343": Unsafe 
 SCRIPT    (W): @"Airdrop/scripts/4_World/entities\airdropplane.c,281": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
 SCRIPT    (W): @"Airdrop/scripts/4_World/entities\airdropplane.c,315": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
 SCRIPT    (W): @"Airdrop/scripts/4_World/entities\airdropplane.c,342": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
-SCRIPT    (W): @"ModularVestSystem/scripts/4_World/mvsworkbench_actiondeployobject.c,11": No need to use 'Cast' for up-casting
 SCRIPT    (W): @"ModularVestSystem/scripts/4_World/armorrack_actiondeployobject.c,11": No need to use 'Cast' for up-casting
 SCRIPT       : ::: FIDOvPACK4: Init
 SCRIPT    (W): @"TM/Trader/scripts/5_Mission/mission\missiongameplay.c,102": Missing ';' at the end of line
@@ -1816,4 +1815,11 @@ SCRIPT       : string str =  '[TRADER] DEBUG END'
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.27021 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.57 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.86948 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 7.94293 )  overcast: 0.0865645
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 7.94293 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.16897 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.46847 ) 0 -> 0
 
