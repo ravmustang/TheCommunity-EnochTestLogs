@@ -1,5 +1,5 @@
 ---------------------------------------------
-Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-05_15-27-25.log started at 05.04. 15:27:25
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-05_15-55-55.log started at 05.04. 15:55:55
 
 SCRIPT       : Registered 246 temporary action enum(s), UAN==246
 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CreateLobby'
@@ -1815,5 +1815,109 @@ SCRIPT       : string str =  '[TRADER] DEBUG END'
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.03066 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.09203 ) 0 -> 0
+SCRIPT       : ********* LoadStats loading version: 106
+SCRIPT       : LOAD checksum:83245859
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : bool m_HasPlayerData = 0
+SCRIPT       : array<string> Roles = 0x00000000f9ba37b0 {'everyone'}
+SCRIPT       : string str =  '[TRADER] SEND DATA TO PLAYER'
+SCRIPT       : [action] SurvivorM_Seth:013 started FirearmActionMechanicManipulate<3ff978f0> item=m82:05038
+SCRIPT       : [action] SurvivorM_Seth:013 end FirearmActionMechanicManipulate<3ff978f0> item=m82:05038
+SCRIPT       : [action] SurvivorM_Seth:013 started FirearmActionAttachMagazine<3ff97cf0> item=m82:05038
+SCRIPT       : [action] SurvivorM_Seth:013 end FirearmActionAttachMagazine<3ff97cf0> item=m82:05038
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:83245859
+SCRIPT       : [action] SurvivorM_Seth:013 started FirearmActionAttachMagazine<3ff97cf0> item=m82:05038
+SCRIPT       : [action] SurvivorM_Seth:013 end FirearmActionAttachMagazine<3ff97cf0> item=m82:05038
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.39188 ) 0 -> 0
+SCRIPT       : [action] SurvivorM_Seth:013 started FirearmActionAttachMagazine<3ff97cf0> item=m82:05038
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:83245859
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponReplacingMagAndChamberNext<f9c1af60> closes stable state=RBL_OPN_BU0_MA1<abd38180> id=5
+SCRIPT       : [action] SurvivorM_Seth:013 end FirearmActionAttachMagazine<3ff97cf0> item=m82:05038
+SCRIPT       : [action] SurvivorM_Seth:013 started ActionOpenDoors<4a3d7f90> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Seth:013 end ActionOpenDoors<4a3d7f90> item=null
+SCRIPT       : [action] SurvivorM_Seth:013 started ActionOpenDoors<4a3d7f90> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Seth:013 end ActionOpenDoors<4a3d7f90> item=null
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.6917 ) 0 -> 0
+SCRIPT       : [action] SurvivorM_Seth:013 started ActionOpenDoors<4a3d7f90> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Seth:013 end ActionOpenDoors<4a3d7f90> item=null
+SCRIPT       : [action] SurvivorM_Seth:013 started ActionOpenDoors<4a3d7f90> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Seth:013 end ActionOpenDoors<4a3d7f90> item=null
+SCRIPT       : [action] SurvivorM_Seth:013 started ActionOpenDoors<4a3d7f90> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Seth:013 end ActionOpenDoors<4a3d7f90> item=null
+SCRIPT       : [action] SurvivorM_Seth:013 started ActionOpenDoors<4a3d7f90> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Seth:013 end ActionOpenDoors<4a3d7f90> item=null
+SCRIPT       : [action] SurvivorM_Seth:013 started ActionCloseDoors<4a3d9390> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Seth:013 end ActionCloseDoors<4a3d9390> item=null
+SCRIPT       : [action] SurvivorM_Seth:013 started ActionOpenDoors<4a3d7f90> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Seth:013 end ActionOpenDoors<4a3d7f90> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:83245859
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=ATTACHMENT item=Hatchback_02_Wheel:04436 parent=Hatchback_02:04435 slot=-1347708810 }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=ATTACHMENT item=Hatchback_02_Wheel:04438 parent=Hatchback_02:04435 slot=-1347707441 }
+SCRIPT       : [action] SurvivorM_Seth:013 started FirearmActionAttachMagazine<3ff97cf0> item=m82:05038
+SCRIPT       : [action] SurvivorM_Seth:013 end FirearmActionAttachMagazine<3ff97cf0> item=m82:05038
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=ATTACHMENT item=Hatchback_02_Wheel:04437 parent=Hatchback_02:04435 slot=-1347708809 }
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.99119 ) 0 -> 0
+SCRIPT       : m_Player.m_HealthLevel:1
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:83245859
+SCRIPT       : [Logout]: New player qLFZ5mHN-EfGnkVQwFjxi9SNJxOK8o9O1AOWeAwyxbI= with logout time 15
+SCRIPT       : [Logout]: Player qLFZ5mHN-EfGnkVQwFjxi9SNJxOK8o9O1AOWeAwyxbI= finished
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:83245859
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.29068 ) 0 -> 0
+SCRIPT       : bool m_HasPlayerData = 0
+SCRIPT       : array<string> Roles = 0x00000000ac5e3010 {'everyone'}
+SCRIPT       : string str =  '[TRADER] SEND DATA TO PLAYER'
+SCRIPT       : [action] SurvivorF_Frida:013 started ActionOpenDoors<4a3d7f90> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorF_Frida:013 end ActionOpenDoors<4a3d7f90> item=null
+SCRIPT       : [action] SurvivorF_Frida:013 started ActionOpenDoors<4a3d7f90> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorF_Frida:013 end ActionOpenDoors<4a3d7f90> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:83245859
+SCRIPT       : [action] SurvivorF_Frida:013 started ActionOpenDoors<4a3d7f90> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorF_Frida:013 end ActionOpenDoors<4a3d7f90> item=null
+SCRIPT       : [action] SurvivorF_Frida:013 started ActionOpenDoors<4a3d7f90> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorF_Frida:013 end ActionOpenDoors<4a3d7f90> item=null
+SCRIPT       : [action] SurvivorF_Frida:013 started ActionOpenDoors<4a3d7f90> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorF_Frida:013 end ActionOpenDoors<4a3d7f90> item=null
+SCRIPT       : [action] SurvivorF_Frida:013 started ActionOpenDoors<4a3d7f90> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorF_Frida:013 end ActionOpenDoors<4a3d7f90> item=null
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.59017 ) 0 -> 0
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:83245859
+SCRIPT       : ********* LoadStats loading version: 106
+SCRIPT       : LOAD checksum:83245859
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : bool m_HasPlayerData = 0
+SCRIPT       : array<string> Roles = 0x0000000053663b60 {'everyone'}
+SCRIPT       : string str =  '[TRADER] SEND DATA TO PLAYER'
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.88966 ) 0 -> 0
+SCRIPT       : m_Player.m_HealthLevel:0
+SCRIPT       : m_Player.m_HealthLevel:1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:83245859
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:83245859
 
