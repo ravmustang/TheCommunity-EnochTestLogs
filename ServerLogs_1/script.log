@@ -1,5 +1,5 @@
 ---------------------------------------------
-Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-05_17-45-03.log started at 05.04. 17:45:03
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-05_18-18-46.log started at 05.04. 18:18:46
 
 SCRIPT       : Registered 246 temporary action enum(s), UAN==246
 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CreateLobby'
@@ -1813,25 +1813,17 @@ SCRIPT       : string str =  '[TRADER] READING ADMIN PLAYER UID ENTRY..'
 SCRIPT       : string str =  '[TRADER] READING ADMIN PLAYER UID ENTRY..'
 SCRIPT       : string str =  '[TRADER] DEBUG END'
 SCRIPT       : m_Player.m_HealthLevel:0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 6.99125 ) 0 -> 0
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
-SCRIPT       : ********* LoadStats loading version: 106
-SCRIPT       : LOAD checksum:83245859
-SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
-SCRIPT       : bool m_HasPlayerData = 0
-SCRIPT       : array<string> Roles = 0x0000000055ec9c60 {'everyone'}
-SCRIPT       : string str =  '[TRADER] SEND DATA TO PLAYER'
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.29116 ) 0 -> 0
-SCRIPT       : [action] SurvivorM_Cyril:013 started ActionOpenDoors<4c1534c0> item=null
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Cyril:013 end ActionOpenDoors<4c1534c0> item=null
-SCRIPT       : Saving stats in version: 106
-SCRIPT       : SAVE CHECKSUM:83245859
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.5911 ) 0 -> 0
-SCRIPT       : Saving stats in version: 106
-SCRIPT       : SAVE CHECKSUM:83245859
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.89081 ) 0 -> 0
-SCRIPT       : Saving stats in version: 106
-SCRIPT       : SAVE CHECKSUM:83245859
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.09417 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.39398 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.69374 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.99324 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.29273 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.59223 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.89172 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 9.14962 )  overcast: 0
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 9.14962 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.19128 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.49077 ) 0 -> 0
 
