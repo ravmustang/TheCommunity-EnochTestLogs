@@ -1,5 +1,5 @@
 ---------------------------------------------
-Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-05_16-49-04.log started at 05.04. 16:49:04
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-05_17-45-03.log started at 05.04. 17:45:03
 
 SCRIPT       : Registered 246 temporary action enum(s), UAN==246
 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CreateLobby'
@@ -1813,272 +1813,25 @@ SCRIPT       : string str =  '[TRADER] READING ADMIN PLAYER UID ENTRY..'
 SCRIPT       : string str =  '[TRADER] READING ADMIN PLAYER UID ENTRY..'
 SCRIPT       : string str =  '[TRADER] DEBUG END'
 SCRIPT       : m_Player.m_HealthLevel:0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 6.99125 ) 0 -> 0
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.03743 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Overcast:: ( 7.05316 )  overcast: 0.0865645
-SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 7.05316 ) 0
-SCRIPT       : bool m_HasPlayerData = 0
-SCRIPT       : array<string> Roles = 0x00000000341c22a0 {'everyone'}
-SCRIPT       : string str =  '[TRADER] SEND DATA TO PLAYER'
-SCRIPT       : Saving stats in version: 106
-SCRIPT       : SAVE CHECKSUM:83245859
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.33693 ) 0 -> 0
-SCRIPT       : Saving stats in version: 106
-SCRIPT       : SAVE CHECKSUM:83245859
 SCRIPT       : ********* LoadStats loading version: 106
 SCRIPT       : LOAD checksum:83245859
 SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
 SCRIPT       : bool m_HasPlayerData = 0
-SCRIPT       : array<string> Roles = 0x000000008c7a9c20 {'everyone'}
+SCRIPT       : array<string> Roles = 0x0000000055ec9c60 {'everyone'}
 SCRIPT       : string str =  '[TRADER] SEND DATA TO PLAYER'
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.63642 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.29116 ) 0 -> 0
+SCRIPT       : [action] SurvivorM_Cyril:013 started ActionOpenDoors<4c1534c0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Cyril:013 end ActionOpenDoors<4c1534c0> item=null
 SCRIPT       : Saving stats in version: 106
 SCRIPT       : SAVE CHECKSUM:83245859
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.5911 ) 0 -> 0
 SCRIPT       : Saving stats in version: 106
 SCRIPT       : SAVE CHECKSUM:83245859
-SCRIPT       : bool m_HasPlayerData = 0
-SCRIPT       : array<string> Roles = 0x0000000038523a30 {'everyone'}
-SCRIPT       : string str =  '[TRADER] SEND DATA TO PLAYER'
-SCRIPT       : [Logout]: New player qLFZ5mHN-EfGnkVQwFjxi9SNJxOK8o9O1AOWeAwyxbI= with logout time 15
-SCRIPT       : [emote] SurvivorF_Helga:013 play emote id=14 IH=null
-SCRIPT       : [Logout]: Player qLFZ5mHN-EfGnkVQwFjxi9SNJxOK8o9O1AOWeAwyxbI= finished
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.89081 ) 0 -> 0
 SCRIPT       : Saving stats in version: 106
 SCRIPT       : SAVE CHECKSUM:83245859
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : Saving stats in version: 106
-SCRIPT       : SAVE CHECKSUM:83245859
-SCRIPT       : Saving stats in version: 106
-SCRIPT       : SAVE CHECKSUM:83245859
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.93591 ) 0 -> 0
-SCRIPT       : [action] SurvivorM_Cyril:015 started ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Cyril:015 end ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : [action] SurvivorM_Cyril:015 started ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Cyril:015 end ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : [action] SurvivorM_Cyril:015 started ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Cyril:015 end ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : [action] SurvivorM_Cyril:015 started ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Cyril:015 end ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : [action] SurvivorM_Cyril:015 started ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Cyril:015 end ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : [action] SurvivorM_Cyril:015 started ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Cyril:015 end ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionDrinkWellContinuous<34dab7d0> item=null
-SCRIPT       : OnStartAnimationLoop
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionDrinkWellContinuous<34dab7d0> item=null
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionDrinkWellContinuous<34dab7d0> item=null
-SCRIPT       : OnStartAnimationLoop
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionDrinkWellContinuous<34dab7d0> item=null
-SCRIPT       : Saving stats in version: 106
-SCRIPT       : SAVE CHECKSUM:83245859
-SCRIPT       : Saving stats in version: 106
-SCRIPT       : SAVE CHECKSUM:83245859
-SCRIPT       : [action] SurvivorM_Cyril:015 started ActionTakeItemToHands<34dad990> item=null
-SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Cyril:015 end ActionTakeItemToHands<34dad990> item=null
-SCRIPT       : [action] SurvivorM_Cyril:015 started ActionDropItem<34da9cf0> item=SmallStone:04319
-SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Cyril:015 end ActionDropItem<34da9cf0> item=SmallStone:04319
-SCRIPT       : [action] SurvivorM_Cyril:015 started ActionTakeItemToHands<34dad990> item=null
-SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Cyril:015 end ActionTakeItemToHands<34dad990> item=null
-SCRIPT       : m_Player.m_HealthLevel:0
-SCRIPT       : Enoch::Weather::Rain:: ( 8.2354 ) 0
-SCRIPT       : [action] SurvivorM_Cyril:015 started ActionTakeItem<34dae2f0> item=null
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Cyril:015 end ActionTakeItem<34dae2f0> item=null
-SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
-SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
-SCRIPT       : [action] SurvivorM_Cyril:015 started ActionEatSmall<34daadd0> item=MacrolepiotaMushroom:04275
-SCRIPT       : OnStartAnimationLoop
-SCRIPT       : m_Player.m_HealthLevel:0
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Cyril:015 end ActionEatSmall<34daadd0> item=MacrolepiotaMushroom:04275
-SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionMineBushByHand<34dac270> item=null
-SCRIPT       : material = LongWoodenStick; quantity = 1
-SCRIPT       : OnStartAnimationLoop
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionMineBushByHand<34dac270> item=null
-SCRIPT       : CreateCopyOfItemInInventory - created  at loc={ type=CARGO item=null parent=Hoodie_Blue:04256 idx=0 row=0 col=2 f=false }
-SCRIPT       : [action] SurvivorM_Cyril:015 started ActionTakeItemToHands<34dad990> item=null
-SCRIPT       : CreateCopyOfItemInInventory - created  at loc={ type=CARGO item=null parent=Hoodie_Blue:04256 idx=0 row=0 col=3 f=false }
-SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Cyril:015 end ActionTakeItemToHands<34dad990> item=null
-SCRIPT       : [action] SurvivorM_Cyril:015 started ActionEatSmall<34daadd0> item=MacrolepiotaMushroom:04309
-SCRIPT       : OnStartAnimationLoop
-SCRIPT       : Saving stats in version: 106
-SCRIPT       : SAVE CHECKSUM:83245859
-SCRIPT       : Saving stats in version: 106
-SCRIPT       : SAVE id:53
-SCRIPT       : SAVE id_bit_offset:4
-SCRIPT       : SAVE write_result:5374806
-SCRIPT       : SAVE CHECKSUM:83245859
-SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionBreakLongWoodenStick<34dac450> item=LongWoodenStick:04321
-SCRIPT       : string s =    'Interupt in actionbase called - server'
-SCRIPT       : OnStartAnimationLoop
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
-SCRIPT       : [action] SurvivorM_Cyril:015 end ActionEatSmall<34daadd0> item=MacrolepiotaMushroom:04309
-SCRIPT       : [action] SurvivorM_Cyril:015 started ActionEatSmall<34daadd0> item=MacrolepiotaMushroom:04309
-SCRIPT       : OnStartAnimationLoop
-SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:04321 parent=SurvivorM_Jose:014 }
-SCRIPT       : Enoch::Weather::Rain:: ( 8.34544 ) 0.676186
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionBreakLongWoodenStick<34dac450> item=null
-SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Cyril:015 end ActionEatSmall<34daadd0> item=MacrolepiotaMushroom:04309
-SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
-SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionBreakLongWoodenStick<34dac450> item=LongWoodenStick:04297
-SCRIPT       : OnStartAnimationLoop
-SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:04297 parent=SurvivorM_Jose:014 }
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionBreakLongWoodenStick<34dac450> item=null
-SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
-SCRIPT       : [action] SurvivorM_Cyril:015 started ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Cyril:015 end ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionTakeItemToHands<34dad990> item=null
-SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionTakeItemToHands<34dad990> item=null
-SCRIPT       : CreateCopyOfItemInInventory - created  at loc={ type=CARGO item=null parent=Hoodie_Blue:04256 idx=0 row=0 col=3 f=false }
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionWorldCraft<34daa290> item=SmallStone:04299
-SCRIPT       : OnStartAnimationLoop
-SCRIPT       : Enoch::Weather::Overcast:: ( 8.44478 )  overcast: 0.795575
-SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 8.44478 ) 0.562498
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionWorldCraft<34daa290> item=SmallStone:04299
-SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
-SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionMineTreeBark<34dacef0> item=StoneKnife:04324
-SCRIPT       : material = Bark_Oak; quantity = 1
-SCRIPT       : OnStartAnimationLoop
-SCRIPT       : [action] SurvivorM_Cyril:015 started ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionMineTreeBark<34dacef0> item=StoneKnife:04324
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Cyril:015 end ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionMineTreeBark<34dacef0> item=StoneKnife:04324
-SCRIPT       : material = Bark_Oak; quantity = 1
-SCRIPT       : OnStartAnimationLoop
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionMineTreeBark<34dacef0> item=StoneKnife:04324
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionDropItemSimple<34daa3d0> item=Chemlight_Yellow:04286
-SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionMineBushByHand<34dac270> item=null
-SCRIPT       : material = LongWoodenStick; quantity = 1
-SCRIPT       : OnStartAnimationLoop
-SCRIPT       : Enoch::Weather::Rain:: ( 8.54386 ) 0.44831
-SCRIPT       : Saving stats in version: 106
-SCRIPT       : SAVE CHECKSUM:83245859
-SCRIPT       : Saving stats in version: 106
-SCRIPT       : SAVE CHECKSUM:83245859
-SCRIPT       : [action] SurvivorM_Cyril:015 started ActionCloseDoors<34dae7f0> item=null
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Cyril:015 end ActionCloseDoors<34dae7f0> item=null
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionMineBushByHand<34dac270> item=null
-SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionBreakLongWoodenStick<34dac450> item=LongWoodenStick:04308
-SCRIPT       : OnStartAnimationLoop
-SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:04308 parent=SurvivorM_Jose:014 }
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionBreakLongWoodenStick<34dac450> item=null
-SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionOpenDoors<34dad7b0> item=null
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionCloseDoors<34dae7f0> item=null
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionCloseDoors<34dae7f0> item=null
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionCloseDoors<34dae7f0> item=null
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionCloseDoors<34dae7f0> item=null
-SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionWorldCraft<34daa290> item=WoodenStick:04303
-SCRIPT       : OnStartAnimationLoop
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionWorldCraft<34daa290> item=WoodenStick:04303
-SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
-SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionPlaceFireplaceIndoor<fa6c79b0> item=Fireplace:04302
-SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=Fireplace:04302 parent=SurvivorM_Jose:014 }
-SCRIPT       : Enoch::Weather::Rain:: ( 8.70393 ) 0.403839
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionPlaceFireplaceIndoor<fa6c79b0> item=null
-SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionWorldCraft<34daa290> item=Bark_Oak:04258
-SCRIPT       : OnStartAnimationLoop
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionWorldCraft<34daa290> item=Bark_Oak:04258
-SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
-SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
-SCRIPT       : [action] SurvivorM_Jose:014 started ActionLightItemOnFire<34daa650> item=HandDrillKit:04294
-SCRIPT       : OnStartAnimationLoop
-SCRIPT       : Saving stats in version: 106
-SCRIPT       : SAVE CHECKSUM:83245859
-SCRIPT       : Saving stats in version: 106
-SCRIPT       : SAVE CHECKSUM:83245859
-SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
-SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
-SCRIPT       : [action] SurvivorM_Jose:014 end ActionLightItemOnFire<34daa650> item=null
-SCRIPT       : Enoch::Weather::Rain:: ( 8.81397 ) 0.181489
-SCRIPT       : [emote] SurvivorM_Jose:014 play emote id=15 IH=null
-SCRIPT       : [emote] SurvivorM_Jose:014 play emote id=15 IH=null
-SCRIPT       : [Logout]: New player 8DOnSdQ940ApBIdjSuuN4oxBOnDOQ5Q83m_B2xRk830= with logout time 0
-SCRIPT       : [Logout]: New player 4Mqulobq2FoykRmOOJXBku52yO4K28dqL5b9VyTT-p0= with logout time 0
-SCRIPT       : [Logout]: Player 8DOnSdQ940ApBIdjSuuN4oxBOnDOQ5Q83m_B2xRk830= finished
-SCRIPT       : Saving stats in version: 106
-SCRIPT       : SAVE CHECKSUM:83245859
-SCRIPT       : [Logout]: Player 4Mqulobq2FoykRmOOJXBku52yO4K28dqL5b9VyTT-p0= finished
-SCRIPT       : Saving stats in version: 106
-SCRIPT       : SAVE CHECKSUM:83245859
-SCRIPT       : PermissionsFramework::~PermissionsFramework
-SCRIPT       : ~PluginBaseBuildingLogs Closed
-SCRIPT       : CommunityOnlineTools::~CommunityOnlineTools
-SCRIPT       : ~DayZGame()
 
