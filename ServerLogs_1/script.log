@@ -1,5 +1,5 @@
 ---------------------------------------------
-Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-05_10-24-27.log started at 05.04. 10:24:27
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-05_10-58-04.log started at 05.04. 10:58:04
 
 SCRIPT       : Registered 246 temporary action enum(s), UAN==246
 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CreateLobby'
@@ -1815,9 +1815,21 @@ SCRIPT       : string str =  '[TRADER] DEBUG END'
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.22405 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.52383 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.82334 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.12283 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.42232 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.00997 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.30975 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.60955 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.90905 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.20854 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.50803 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 8.63087 )  overcast: 0.0820188
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 8.63087 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.80752 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.10701 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.40651 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.70601 ) 0 -> 0
+SCRIPT       : PermissionsFramework::~PermissionsFramework
+SCRIPT       : ~PluginBaseBuildingLogs Closed
+SCRIPT       : CommunityOnlineTools::~CommunityOnlineTools
+SCRIPT       : ~DayZGame()
+SCRIPT       : ::: FIDOvPACK4: UnInit
 
