@@ -1,0 +1,280 @@
+﻿ 1:08:57 BattlEye Server: Initialized (v1.217)
+ 1:08:57 SUCCESS: SteamGameServer_Init(0,8766,2442,28056,3,1.07.153006)
+ 1:08:57 Roles assigned.
+ 1:08:57 Reading mission ...
+ 1:09:43 [CE][Hive] :: Initializing OFFLINE
+ 1:09:43 [CE][Hive] :: Loading core data ... 
+ 1:09:43 [CE][CoreData] :: 7 root classes, 19 defaults, 0 updaters...
+ 1:09:51 [CE][RegisterBind] :: 0 classes binded...
+ 1:09:51 [CE][RegisterConfig] :: 7390 config classes registered, 0 sub-counters...
+ 1:09:51 [CE][Hive] :: Loading map data ... 
+ 1:09:51 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 1:09:51 [CE][LoadPrototype] :: loaded 330 prototypes
+ 1:09:51   702 containers, 9116 points
+ 1:09:51   24 dispatches, 90 proxies
+ 1:09:51 !!! [CE][LoadPrototype] 12 groups have no points...
+ 1:09:51 !!![CE][LoadPrototype]  3 groups have wrong points...
+ 1:09:51 [CE][LoadPrototype] :: last group name: Land_Lunapark_Autodrome...
+ 1:09:51 [CE][LoadPrototype] :: loaded 0 prototypes
+ 1:09:51   0 containers, 0 points
+ 1:09:51   0 dispatches, 0 proxies
+ 1:09:51 [CE][LoadPrototype] :: last group name: PathD_7100...
+ 1:09:52 [CE][LoadMap] "Group" :: loaded 5086 groups, largest group range: 26.9
+ 1:09:52 [CE][LoadMap] "Dirt" :: loaded 0 groups, largest group range: 26.9
+ 1:09:52 [CE][LoadClusters] "Cluster" :: Loading files...
+ 1:09:52 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 4 types, 50000 instances
+ 1:09:52 [CE][LoadClusters] :: file: "mapgroupcluster01", 4 types, 50000 instances
+ 1:09:52 [CE][LoadClusters] :: file: "mapgroupcluster02", 4 types, 50000 instances
+ 1:09:53 [CE][LoadClusters] :: file: "mapgroupcluster03", 4 types, 50000 instances
+ 1:09:53 [CE][LoadClusters] :: file: "mapgroupcluster04", 4 types, 21297 instances
+ 1:09:53 [CE][Storage] ver:21 stamp:907, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\types.bin"
+ 1:09:53 [CE][Storage] ver:21 stamp:906, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\types.001"
+ 1:09:53 [CE][Storage] ver:21 stamp:904, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\types.002"
+ 1:09:53 [CE][Storage] Restoring file "mpmissions\TheCommunity.enoch\storage_666\data\types.bin".
+ 1:09:53 [CE][offlineDB] :: Loaded 33 dynamic events 215 total types 0 total positions.
+ 1:09:53 [CE][Storage] ver:21 stamp:907, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\events.bin"
+ 1:09:53 [CE][Storage] ver:21 stamp:906, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\events.001"
+ 1:09:53 [CE][Storage] ver:21 stamp:904, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\events.002"
+ 1:09:53 [CE][Storage] Restoring file "mpmissions\TheCommunity.enoch\storage_666\data\events.bin".
+ 1:09:53 [CE][DynamicEvent] Load  Events:[33] Primary spawners: 33 Secondary spawners: 1
+ 1:09:53 [CE][Storage] ver:24 stamp:907, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\vehicles.bin"
+ 1:09:53 [CE][Storage] ver:24 stamp:906, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\vehicles.001"
+ 1:09:53 [CE][Storage] ver:24 stamp:904, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\vehicles.002"
+ 1:09:53 [CE][Storage] Restoring file "mpmissions\TheCommunity.enoch\storage_666\data\vehicles.bin" 80 items.
+ 1:09:53   80 items loaded.
+ 1:09:53 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_000.bin"
+ 1:09:53 [CE][Storage] ver:24 stamp:906, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_000.001"
+ 1:09:53 [CE][Storage] ver:24 stamp:904, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_000.002"
+ 1:09:53 [CE][Storage] Restoring file "mpmissions\TheCommunity.enoch\storage_666\data\dynamic_000.001" 294 items.
+ 1:09:53   294 items loaded.
+ 1:09:53 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_001.bin"
+ 1:09:53 [CE][Storage] ver:24 stamp:906, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_001.001"
+ 1:09:53 [CE][Storage] ver:24 stamp:904, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_001.002"
+ 1:09:53 [CE][Storage] Restoring file "mpmissions\TheCommunity.enoch\storage_666\data\dynamic_001.001" 1860 items.
+ 1:09:54   1860 items loaded.
+ 1:09:54 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_002.bin"
+ 1:09:54 [CE][Storage] ver:24 stamp:906, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_002.001"
+ 1:09:54 [CE][Storage] ver:24 stamp:904, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_002.002"
+ 1:09:54 [CE][Storage] Restoring file "mpmissions\TheCommunity.enoch\storage_666\data\dynamic_002.001" 546 items.
+ 1:09:54   546 items loaded.
+ 1:09:54 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_003.bin"
+ 1:09:54 [CE][Storage] ver:24 stamp:906, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_003.001"
+ 1:09:54 [CE][Storage] ver:24 stamp:904, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_003.002"
+ 1:09:54 [CE][Storage] Restoring file "mpmissions\TheCommunity.enoch\storage_666\data\dynamic_003.001" 1003 items.
+ 1:09:54   1003 items loaded.
+ 1:09:54 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_004.bin"
+ 1:09:54 [CE][Storage] ver:24 stamp:906, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_004.001"
+ 1:09:54 [CE][Storage] ver:24 stamp:904, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_004.002"
+ 1:09:54 [CE][Storage] Restoring file "mpmissions\TheCommunity.enoch\storage_666\data\dynamic_004.001" 1459 items.
+ 1:09:55   1459 items loaded.
+ 1:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_005.bin"
+ 1:09:55 [CE][Storage] ver:24 stamp:906, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_005.001"
+ 1:09:55 [CE][Storage] ver:24 stamp:904, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_005.002"
+ 1:09:55 [CE][Storage] Restoring file "mpmissions\TheCommunity.enoch\storage_666\data\dynamic_005.001" 1805 items.
+ 1:09:55   1805 items loaded.
+ 1:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_006.bin"
+ 1:09:55 [CE][Storage] ver:24 stamp:906, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_006.001"
+ 1:09:55 [CE][Storage] ver:24 stamp:904, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_006.002"
+ 1:09:55 [CE][Storage] Restoring file "mpmissions\TheCommunity.enoch\storage_666\data\dynamic_006.001" 965 items.
+ 1:09:55   965 items loaded.
+ 1:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_007.bin"
+ 1:09:55 [CE][Storage] ver:24 stamp:906, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_007.001"
+ 1:09:55 [CE][Storage] ver:24 stamp:904, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_007.002"
+ 1:09:55 [CE][Storage] Restoring file "mpmissions\TheCommunity.enoch\storage_666\data\dynamic_007.001" 1302 items.
+ 1:09:56   1302 items loaded.
+ 1:09:56 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_008.bin"
+ 1:09:56 [CE][Storage] ver:24 stamp:906, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_008.001"
+ 1:09:56 [CE][Storage] ver:24 stamp:904, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_008.002"
+ 1:09:56 [CE][Storage] Restoring file "mpmissions\TheCommunity.enoch\storage_666\data\dynamic_008.001" 1003 items.
+ 1:09:56   1003 items loaded.
+ 1:09:56 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_009.bin"
+ 1:09:56 [CE][Storage] ver:24 stamp:906, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_009.001"
+ 1:09:56 [CE][Storage] ver:24 stamp:904, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_009.002"
+ 1:09:56 [CE][Storage] Restoring file "mpmissions\TheCommunity.enoch\storage_666\data\dynamic_009.001" 1005 items.
+ 1:09:56   1005 items loaded.
+ 1:09:56 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_010.bin"
+ 1:09:56 [CE][Storage] ver:24 stamp:906, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_010.001"
+ 1:09:56 [CE][Storage] ver:24 stamp:904, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_010.002"
+ 1:09:56 [CE][Storage] Restoring file "mpmissions\TheCommunity.enoch\storage_666\data\dynamic_010.001" 2181 items.
+ 1:09:57   2181 items loaded.
+ 1:09:57 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_011.bin"
+ 1:09:57 [CE][Storage] ver:24 stamp:906, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_011.001"
+ 1:09:57 [CE][Storage] ver:24 stamp:904, valid:yes, name:"mpmissions\TheCommunity.enoch\storage_666\data\dynamic_011.002"
+ 1:09:57 [CE][Storage] Restoring file "mpmissions\TheCommunity.enoch\storage_666\data\dynamic_011.001" 329 items.
+ 1:09:57   329 items loaded.
+ 1:09:57 [CE][Hive] :: Storage load took:3.95 seconds, recovery stamp:907
+ 1:09:57   entity: 13832, building: 0
+ 1:09:57   no lifetime: 40
+ 1:09:57 [CE][Hive] :: Initializing ... 
+ 1:09:57 [CE][InitializeMap] :: initialized: 0
+ 1:09:57 [CE][Hive] :: Initializing spawners ... 
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "Mag_Nailgun_50n"
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "Mag_Nailgun_50n"
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "Mag_Nailgun_50n"
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "Mag_Nailgun_50n"
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "Mag_Nailgun_50n"
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "Mag_Nailgun_50n"
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "Mag_Nailgun_50n"
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "Mag_Nailgun_50n"
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "Mag_Nailgun_50n"
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "Mag_Nailgun_50n"
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "Mag_Nailgun_50n"
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "Mag_Nailgun_50n"
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "Mag_Nailgun_50n"
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "Mag_Nailgun_50n"
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "Mag_Nailgun_50n"
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "Mag_Nailgun_50n"
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "Mag_Nailgun_50n"
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "Mag_Nailgun_50n"
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "Mag_Nailgun_50n"
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "Mag_Nailgun_50n"
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "ConstructionHelmet_Red"
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "GhillieHood_Mossy_real"
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "TacticalShirt_Olive"
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "TacticalShirt_Olive"
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "TacticalShirt_Olive"
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "Hatchback_02_Door_1_1_Black"
+ 1:09:59 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:195, Nominal:22572, Total in Map: 14067 at 0 (sec)
+ 1:09:59   tests:201, repeats:0 fails:6, overtime:5733
+ 1:09:59 [CE][DynEvent] :: 33 types
+ 1:09:59 [00] AmbientHen
+ 1:09:59   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 1:09:59 [01] AnimalBear
+ 1:09:59   Primary Spawner: "Animal", active: yes, repeat: 1
+ 1:09:59 [02] AnimalCow
+ 1:09:59   Primary Spawner: "Animal", active: yes, repeat: 1
+ 1:09:59 [03] AnimalDeer
+ 1:09:59   Primary Spawner: "Animal", active: yes, repeat: 1
+ 1:09:59 [04] AnimalGoat
+ 1:09:59   Primary Spawner: "Animal", active: yes, repeat: 1
+ 1:09:59 [05] AnimalPig
+ 1:09:59   Primary Spawner: "Animal", active: yes, repeat: 1
+ 1:09:59 [06] AnimalRoeDeer
+ 1:09:59   Primary Spawner: "Animal", active: yes, repeat: 1
+ 1:09:59 [07] AnimalSheep
+ 1:09:59   Primary Spawner: "Animal", active: yes, repeat: 1
+ 1:09:59 [08] AnimalWildBoar
+ 1:09:59   Primary Spawner: "Animal", active: yes, repeat: 1
+ 1:09:59 [09] AnimalWolf
+ 1:09:59   Primary Spawner: "Animal", active: yes, repeat: 1
+ 1:09:59 [10] InfectedArmy
+ 1:09:59   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:09:59 [11] InfectedCity
+ 1:09:59   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:09:59 [12] InfectedFirefighter
+ 1:09:59   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:09:59 [13] InfectedIndustrial
+ 1:09:59   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:09:59 [14] InfectedMedic
+ 1:09:59   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:09:59 [15] InfectedPolice
+ 1:09:59   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:09:59 [16] InfectedPrisoner
+ 1:09:59   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:09:59 [17] InfectedReligious
+ 1:09:59   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:09:59 [18] InfectedSolitude
+ 1:09:59   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:09:59 [19] InfectedVillage
+ 1:09:59   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:09:59 [20] ItemPlanks
+ 1:09:59   Primary Spawner: "Item", active: yes, repeat: 1
+ 1:09:59 [21] Loot
+ 1:09:59   Primary Spawner: "Loot", active: yes, repeat: 2
+ 1:09:59 [22] StaticHeliCrash
+ 1:09:59   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 1:09:59   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 1:09:59 [23] StaticPoliceCar
+ 1:09:59   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 1:09:59 [24] TrajectoryConiferous
+ 1:09:59   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 1:09:59 [25] TrajectoryDeciduous
+ 1:09:59   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 1:09:59 [26] TrajectoryHumus
+ 1:09:59   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 1:09:59 [27] TrajectoryStones
+ 1:09:59   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 1:09:59 [28] VehicleCivilianSedan
+ 1:09:59   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 1:09:59 [29] VehicleHatchback02
+ 1:09:59   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 1:09:59 [30] VehicleOffroadHatchback
+ 1:09:59   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 1:09:59 [31] VehicleSedan02
+ 1:09:59   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 1:09:59 [32] VehicleCrSk_Land_Rover_Defender_110
+ 1:09:59   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 1:09:59 [CE][Hive] :: Initializing of spawners done.
+ 1:09:59 [CE][Hive] :: Init sequence finished.
+ 1:10:04 BattlEye Server: RCon admin #0 (127.0.0.1:58291) logged in
+ 1:10:30 Average server FPS: 2613.70 (measured interval: 30 s)
+ 1:10:30 Used memory: 1465221 KB
+ 1:10:30 Players: 0 in total
+ 1:11:00 Average server FPS: 3672.19 (measured interval: 30 s)
+ 1:11:00 Used memory: 1470776 KB
+ 1:11:00 Players: 0 in total
+ 1:11:04 BattlEye Server: RCon admin #0: (Global) Welcome to The Community Test Server! This server restarts every 30 Minutes
+ 1:11:09 BattlEye Server: RCon admin #0: (Global) Discord at https://discord.me/eXpoch -- I Still have TS3.donkeypunch.info
+ 1:11:19 BattlEye Server: RCon admin #0: (Global) Interesting new message here, inquire within battleye-BEC!
+ 1:11:30 Average server FPS: 3744.97 (measured interval: 30 s)
+ 1:11:30 Used memory: 1482104 KB
+ 1:11:30 Players: 0 in total
+ 1:12:00 Average server FPS: 3734.87 (measured interval: 30 s)
+ 1:12:00 Used memory: 1489983 KB
+ 1:12:00 Players: 0 in total
+ 1:12:30 Average server FPS: 3843.49 (measured interval: 30 s)
+ 1:12:30 Used memory: 1500938 KB
+ 1:12:30 Players: 0 in total
+ 1:13:00 Average server FPS: 3849.47 (measured interval: 30 s)
+ 1:13:00 Used memory: 1507985 KB
+ 1:13:00 Players: 0 in total
+ 1:13:30 Average server FPS: 1791.33 (measured interval: 30 s)
+ 1:13:30 Used memory: 1514354 KB
+ 1:13:30 Players: 0 in total
+ 1:14:00 Average server FPS: 3886.40 (measured interval: 30 s)
+ 1:14:00 Used memory: 1521790 KB
+ 1:14:00 Players: 0 in total
+ 1:14:30 Average server FPS: 3874.58 (measured interval: 30 s)
+ 1:14:30 Used memory: 1534890 KB
+ 1:14:30 Players: 0 in total
+ 1:15:00 Average server FPS: 3886.08 (measured interval: 30 s)
+ 1:15:00 Used memory: 1538928 KB
+ 1:15:00 Players: 0 in total
+ 1:15:04 BattlEye Server: RCon admin #0: (Global) The Community TEST SERVER will reboot in 25 minutes.
+ 1:15:30 Average server FPS: 4010.07 (measured interval: 30 s)
+ 1:15:30 Used memory: 1545618 KB
+ 1:15:30 Players: 0 in total
+ 1:15:53 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "BaseballCapRussianVsr2"
+ 1:15:53 [CE][LootRespawner] (PRIDummy) :: Item [7] is hard to place, performance drops: "FP4_ShockPistol"
+ 1:15:54 [CE][LootRespawner] (PRIDummy) :: Item [8] is hard to place, performance drops: "Pistol_Tokarev"
+ 1:15:54 [CE][LootRespawner] (PRIDummy) :: Item [9] is hard to place, performance drops: "PM"
+ 1:16:00 Average server FPS: 4006.97 (measured interval: 30 s)
+ 1:16:00 Used memory: 1552030 KB
+ 1:16:00 Players: 0 in total
+ 1:16:30 Average server FPS: 3972.93 (measured interval: 30 s)
+ 1:16:30 Used memory: 1554123 KB
+ 1:16:30 Players: 0 in total
+ 1:16:37 [CE][LootRespawner] (PRIDummy) :: Item [10] is hard to place, performance drops: "USP"
+ 1:16:38 [CE][LootRespawner] (PRIDummy) :: Item [11] is hard to place, performance drops: "BloodBagEmpty"
+ 1:17:00 Average server FPS: 4885.00 (measured interval: 30 s)
+ 1:17:00 Used memory: 1555014 KB
+ 1:17:00 Players: 0 in total
+ 1:17:11 [CE][LootRespawner] (PRIDummy) :: Item [12] is hard to place, performance drops: "Hatchback_02_Door_2_2_RedRust"
+ 1:17:11 [CE][LootRespawner] (PRIDummy) :: Item [13] is hard to place, performance drops: "Hatchback_02_Door_2_2_RedRust"
+ 1:17:12 [CE][LootRespawner] (PRIDummy) :: Item [14] is hard to place, performance drops: "BandanaSplitter"
+ 1:17:15 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 14
+ 1:17:15 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 10
+ 1:17:15 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 10
+ 1:17:30 Average server FPS: 8356.13 (measured interval: 30 s)
+ 1:17:30 Used memory: 1553475 KB
+ 1:17:30 Players: 0 in total
+ 1:17:39 [CE][LootRespawner] (PRIDummy) :: Item [15] is hard to place, performance drops: "Defender110_dver_2_1"
+ 1:17:39 [CE][LootRespawner] (PRIDummy) :: Item [16] is hard to place, performance drops: "Defender110_dver_2_1"
+ 1:17:41 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+ 1:17:41 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+ 1:17:41 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+ 1:17:41 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+ 1:17:41 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+ 1:17:41 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+ 1:17:41 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+ 1:17:41 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Chil
