@@ -1,5 +1,5 @@
 ---------------------------------------------
-Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-05_21-41-08.log started at 05.04. 21:41:08
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-05_22-14-55.log started at 05.04. 22:14:55
 
 SCRIPT       : Registered 246 temporary action enum(s), UAN==246
 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CreateLobby'
@@ -1812,15 +1812,43 @@ SCRIPT       : string str =  '[TRADER] READING ADMIN PLAYER UID ENTRY..'
 SCRIPT       : string str =  '[TRADER] READING ADMIN PLAYER UID ENTRY..'
 SCRIPT       : string str =  '[TRADER] READING ADMIN PLAYER UID ENTRY..'
 SCRIPT       : string str =  '[TRADER] DEBUG END'
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 6.98618 ) 0 -> 0
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.28597 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.58572 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.8855 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.18499 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Overcast:: ( 8.28604 )  overcast: 0
-SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 8.28604 ) 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.48448 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.0736 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 7.30238 )  overcast: 0.0865645
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 7.30238 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.37353 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.67328 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.97285 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.27234 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.57183 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.87132 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 8.96528 )  overcast: 0.421635
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 8.96528 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.17081 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain:: ( 9.4703 ) 0
+SCRIPT       : Enoch::Weather::Rain:: ( 9.59202 ) 0.29508
+SCRIPT       : ********* LoadStats loading version: 106
+SCRIPT       : LOAD checksum:83245859
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : bool m_HasPlayerData = 0
+SCRIPT       : array<string> Roles = 0x00000000485d0b20 {'everyone'}
+SCRIPT       : string str =  '[TRADER] SEND DATA TO PLAYER'
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:83245859
+SCRIPT       : Enoch::Weather::Rain:: ( 9.75542 ) 0.274624
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorF_Helga:013 started FirearmActionAttachMagazine<42eda160> item=M4A1:016714
+SCRIPT       : [action] SurvivorF_Helga:013 end FirearmActionAttachMagazine<42eda160> item=M4A1:016714
+SCRIPT       : Enoch::Weather::Rain:: ( 9.86047 ) 0.106304
+SCRIPT       : [Logout]: New player qLFZ5mHN-EfGnkVQwFjxi9SNJxOK8o9O1AOWeAwyxbI= with logout time 0
+SCRIPT       : [Logout]: Player qLFZ5mHN-EfGnkVQwFjxi9SNJxOK8o9O1AOWeAwyxbI= finished
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:83245859
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : PermissionsFramework::~PermissionsFramework
+SCRIPT       : ~PluginBaseBuildingLogs Closed
+SCRIPT       : CommunityOnlineTools::~CommunityOnlineTools
+SCRIPT       : ~DayZGame()
 
