@@ -1,5 +1,5 @@
 ---------------------------------------------
-Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-06_03-56-54.log started at 06.04. 03:56:54
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-06_05-03-59.log started at 06.04. 05:03:59
 
 SCRIPT       : Registered 246 temporary action enum(s), UAN==246
 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CreateLobby'
@@ -1815,21 +1815,9 @@ SCRIPT       : string str =  '[TRADER] DEBUG END'
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.08111 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.3809 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.68071 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.98022 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.27971 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.5792 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Overcast:: ( 8.7252 )  overcast: 0
-SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 8.7252 ) 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.87869 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.17818 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.47767 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.77716 ) 0 -> 0
-SCRIPT       : PermissionsFramework::~PermissionsFramework
-SCRIPT       : ~PluginBaseBuildingLogs Closed
-SCRIPT       : CommunityOnlineTools::~CommunityOnlineTools
-SCRIPT       : ~DayZGame()
-SCRIPT       : ::: FIDOvPACK4: UnInit
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.25768 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 7.41696 )  overcast: 0.0865645
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 7.41696 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.55743 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.85721 ) 0 -> 0
 
