@@ -1,5 +1,5 @@
 ---------------------------------------------
-Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-06_12-55-55.log started at 06.04. 12:55:55
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-06_15-17-49.log started at 06.04. 15:17:49
 
 SCRIPT       : Registered 246 temporary action enum(s), UAN==246
 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CreateLobby'
@@ -1815,20 +1815,4 @@ SCRIPT       : string str =  '[TRADER] DEBUG END'
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
-SCRIPT       : Enoch::Weather::Overcast:: ( 6.992 )  overcast: 0.0865645
-SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 6.992 ) 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.17892 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.47867 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain:: ( 7.77844 ) 0
-SCRIPT       : Enoch::Weather::Rain:: ( 7.95018 ) 0.269503
-SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 8.08857 ) 0.734729 -> 0.942033
-SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 8.20861 ) 0.940816 -> 0.949693
-SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 8.32199 ) 0.948926 -> 0.862325
-SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 8.45704 ) 0.862325 -> 0.915592
-SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 8.5921 ) 0.915456 -> 0.956572
-SCRIPT       : Enoch::Weather::Overcast:: ( 8.63509 )  overcast: 0.943913
-SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 8.63509 ) 0.929292
-SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 8.71715 ) 0.955707 -> 0.8331
-SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 8.8372 ) 0.8331 -> 0.802545
-SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 9.02394 ) 0.802545 -> 0.932597
 
