@@ -1,5 +1,5 @@
 ---------------------------------------------
-Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-05_19-59-38.log started at 05.04. 19:59:38
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-05_21-07-15.log started at 05.04. 21:07:15
 
 SCRIPT       : Registered 246 temporary action enum(s), UAN==246
 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CreateLobby'
@@ -1815,13 +1815,4 @@ SCRIPT       : string str =  '[TRADER] DEBUG END'
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.02482 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.32458 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.62434 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.92396 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.22346 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.52295 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Overcast:: ( 8.68057 )  overcast: 0
-SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 8.68057 ) 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.82244 ) 0 -> 0
 
