@@ -1,5 +1,5 @@
 ---------------------------------------------
-Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-06_22-48-24.log started at 06.04. 22:48:24
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-06_23-19-30.log started at 06.04. 23:19:30
 
 SCRIPT       : Registered 246 temporary action enum(s), UAN==246
 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CreateLobby'
@@ -2207,4 +2207,10 @@ SCRIPT       : [DonkeyDebug]init.c CreateLandObject type:bldr_Wall_Fen5_10
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.04004 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.3398 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.63977 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.93941 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.23891 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.5384 ) 0 -> 0
 
