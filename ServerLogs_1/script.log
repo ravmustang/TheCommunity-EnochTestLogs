@@ -1,5 +1,5 @@
 ---------------------------------------------
-Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-06_23-19-30.log started at 06.04. 23:19:30
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-06_23-50-37.log started at 06.04. 23:50:37
 
 SCRIPT       : Registered 246 temporary action enum(s), UAN==246
 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CreateLobby'
@@ -2207,10 +2207,22 @@ SCRIPT       : [DonkeyDebug]init.c CreateLandObject type:bldr_Wall_Fen5_10
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.04004 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.3398 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.63977 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.93941 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.23891 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.5384 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.14765 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 7.17594 )  overcast: 0.0818256
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 7.17594 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.44745 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.74721 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.04674 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.34624 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.64573 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.94523 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 9.06709 )  overcast: 0.312354
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 9.06709 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.24472 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.54421 ) 0 -> 0
+SCRIPT       : PermissionsFramework::~PermissionsFramework
+SCRIPT       : ~PluginBaseBuildingLogs Closed
+SCRIPT       : CommunityOnlineTools::~CommunityOnlineTools
+SCRIPT       : ~DayZGame()
+SCRIPT       : ::: FIDOvPACK4: UnInit
 
