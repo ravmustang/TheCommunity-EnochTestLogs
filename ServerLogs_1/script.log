@@ -1,5 +1,5 @@
 ---------------------------------------------
-Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-07_06-06-20.log started at 07.04. 06:06:20
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\script_2020-04-07_06-37-26.log started at 07.04. 06:37:26
 
 SCRIPT       : Registered 246 temporary action enum(s), UAN==246
 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CreateLobby'
@@ -2207,10 +2207,15 @@ SCRIPT       : [DonkeyDebug]init.c CreateLandObject type:bldr_Wall_Fen5_10
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
 SCRIPT       : m_Player.m_HealthLevel:0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.0151 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Overcast:: ( 7.2952 )  overcast: 0.0818256
-SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 7.2952 ) 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.31502 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.61493 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.91471 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.00643 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.30634 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.60615 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 7.62846 )  overcast: 0.0818256
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 7.62846 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.90593 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.20543 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.50492 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.80441 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.1039 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.40339 ) 0 -> 0
 
