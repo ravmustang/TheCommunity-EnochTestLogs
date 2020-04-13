@@ -1,0 +1,274 @@
+---------------------------------------------
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\crash_2020-04-08_20-58-36.log started at 08.04. 20:59:19
+
+
+
+------------------------------------
+R16RK4U17-3, 08.04 2020 20:59:19
+Can't compile mission init script'!
+
+$CurrentDir:mpmissions\TheCommunity.enoch\init.c(22): Undefined function 'BBPCementMixers'
+
+Runtime mode
+CLI params: port 2442 mod @CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VanillaPlusPlusMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@Unlimited_Stamina;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv_PACK_4;@FlipTransport;@GoreZ;@IRP-Land-Rover-Defender-110;@KillFeed;@NoVehicleDamage;@PartyMe;@Modular_Vest_System;@MuchStuffPack;@Specialist_Weapon_Pack;@BreachingCharge;@BBPBreachCharge; config D:\DayZServers\TheCommunity_enochTest\TheCommunityDZTest.cfg profiles TheEnochTestServer BEPath D:\DayZServers\TheCommunity_enochTest\battleye filePatching  adminlog  netlog  freezecheck  scrAllowFileWrite  
+---------------------------------------------
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\crash_2020-04-11_14-25-48.log started at 11.04. 14:26:40
+
+
+
+------------------------------------
+R16RK4U17-3, 11.04 2020 14:26:40
+NULL pointer to instance
+Class:      'alp_NextDaysServer'
+Function: 'CopyCategory'
+Stack trace:
+NextDays/scripts/4_World/classes\nextdays\nextdaysserver.c:162
+NextDays/scripts/4_World/classes\nextdays\nextdaysserver.c:52
+NextDays/scripts/4_World/classes\nextdays\nextdaysserver.c:26
+NextDays/scripts/5_Mission/mission\alp_missionserver.c:17
+
+Runtime mode
+CLI params: port 2442 mod @CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VanillaPlusPlusMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@Unlimited_Stamina;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv_PACK_4;@FlipTransport;@GoreZ;@IRP-Land-Rover-Defender-110;@KillFeed;@NoVehicleDamage;@PartyMe;@Modular_Vest_System;@MuchStuffPack;@Specialist_Weapon_Pack;@BreachingCharge;@BBPBreachCharge;@MunghardsItempack;@NDVPPM;@Next_Days;@Notes;@Repair_My_Car;@SQUAD_MSF-C;@Zeroy-FishingZ;@OP_BaseItems;@Base_Storage; config D:\DayZServers\TheCommunity_enochTest\TheCommunityDZTest.cfg profiles TheEnochTestServer BEPath D:\DayZServers\TheCommunity_enochTest\battleye filePatching  adminlog  netlog  freezecheck  scrAllowFileWrite  
+---------------------------------------------
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\crash_2020-04-11_14-47-24.log started at 11.04. 14:48:16
+
+
+
+------------------------------------
+R16RK4U17-3, 11.04 2020 14:48:16
+NULL pointer to instance
+Class:      'alp_NextDaysServer'
+Function: 'CopyCategory'
+Stack trace:
+NextDays/scripts/4_World/classes\nextdays\nextdaysserver.c:162
+NextDays/scripts/4_World/classes\nextdays\nextdaysserver.c:52
+NextDays/scripts/4_World/classes\nextdays\nextdaysserver.c:26
+NextDays/scripts/5_Mission/mission\alp_missionserver.c:17
+
+Runtime mode
+CLI params: port 2442 mod @CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VPPMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@Unlimited_Stamina;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv4;@FlipTransport;@GoreZ;@IRP;@KillFeed;@NoVehicleDamage;@PartyMe;@Modular_Vest_System;@MuchStuffPack;@SWP;@BreachingCharge;@BBPBreachCharge;@MunghardsItempack;@NDVPPM;@Next_Days;@Notes;@Repair_My_Car;@SQUAD_MSF-C;@Zeroy-FishingZ;@OP_BaseItems;@Base_Storage; config D:\DayZServers\TheCommunity_enochTest\TheCommunityDZTest.cfg profiles TheEnochTestServer BEPath D:\DayZServers\TheCommunity_enochTest\battleye filePatching  adminlog  netlog  freezecheck  scrAllowFileWrite  
+---------------------------------------------
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\crash_2020-04-12_21-42-50.log started at 12.04. 21:44:14
+
+
+
+------------------------------------
+R16RK4U17-3, 12.04 2020 21:44:14
+
+JSON ERROR:
+Expect a value here.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/3_Game/tools\jsonfileloader.c:29
+NextDays/scripts/5_Mission/messages.c:31
+NextDays/scripts/5_Mission/mission\alp_missionserver.c:26
+scripts/3_Game/dayzgame.c:2328
+
+Runtime mode
+CLI params: port 2442 mod @CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VPPMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv4;@FlipTransport;@GoreZ;@IRP;@KillFeed;@NoVehicleDamage;@PartyMe;@Modular_Vest_System;@MuchStuffPack;@SWP;@BreachingCharge;@BBPBreachCharge;@MunghardsItempack;@NDVPPM;@Next_Days;@Notes;@Repair_My_Car;@SQUAD_MSF-C;@Zeroy-FishingZ;@OP_BaseItems;@Base_Storage; config D:\DayZServers\TheCommunity_enochTest\TheCommunityDZTest.cfg profiles TheEnochTestServer BEPath D:\DayZServers\TheCommunity_enochTest\battleye filePatching  adminlog  netlog  freezecheck  scrAllowFileWrite  
+---------------------------------------------
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\crash_2020-04-12_22-07-50.log started at 12.04. 22:09:02
+
+
+
+------------------------------------
+R16RK4U17-3, 12.04 2020 22:09:02
+
+JSON ERROR:
+Expect a value here.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/3_Game/tools\jsonfileloader.c:29
+NextDays/scripts/5_Mission/messages.c:31
+NextDays/scripts/5_Mission/mission\alp_missionserver.c:26
+scripts/3_Game/dayzgame.c:2328
+
+Runtime mode
+CLI params: port 2442 mod @CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VPPMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv4;@FlipTransport;@GoreZ;@IRP;@KillFeed;@NoVehicleDamage;@PartyMe;@Modular_Vest_System;@MuchStuffPack;@SWP;@BreachingCharge;@BBPBreachCharge;@MunghardsItempack;@NDVPPM;@Next_Days;@Notes;@Repair_My_Car;@SQUAD_MSF-C;@Zeroy-FishingZ;@OP_BaseItems;@Base_Storage; config D:\DayZServers\TheCommunity_enochTest\TheCommunityDZTest.cfg profiles TheEnochTestServer BEPath D:\DayZServers\TheCommunity_enochTest\battleye filePatching  adminlog  netlog  freezecheck  scrAllowFileWrite  
+---------------------------------------------
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\crash_2020-04-13_00-00-58.log started at 13.04. 00:02:13
+
+
+
+------------------------------------
+R16RK4U17-3, 13.04 2020 00:02:13
+
+JSON ERROR:
+Expect a value here.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/3_Game/tools\jsonfileloader.c:29
+NextDays/scripts/5_Mission/messages.c:31
+NextDays/scripts/5_Mission/mission\alp_missionserver.c:26
+scripts/3_Game/dayzgame.c:2328
+
+Runtime mode
+CLI params: port 2442 mod @CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VPPMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv4;@FlipTransport;@GoreZ;@IRP;@KillFeed;@NoVehicleDamage;@PartyMe;@Modular_Vest_System;@MuchStuffPack;@SWP;@BreachingCharge;@BBPBreachCharge;@MunghardsItempack;@NDVPPM;@Next_Days;@Notes;@Repair_My_Car;@SQUAD_MSF-C;@Zeroy-FishingZ;@OP_BaseItems;@Base_Storage; config D:\DayZServers\TheCommunity_enochTest\TheCommunityDZTest.cfg profiles TheEnochTestServer BEPath D:\DayZServers\TheCommunity_enochTest\battleye filePatching  adminlog  netlog  freezecheck  scrAllowFileWrite  
+---------------------------------------------
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\crash_2020-04-13_00-04-37.log started at 13.04. 00:05:48
+
+
+
+------------------------------------
+R16RK4U17-3, 13.04 2020 00:05:48
+
+JSON ERROR:
+Expect a value here.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/3_Game/tools\jsonfileloader.c:29
+NextDays/scripts/5_Mission/messages.c:31
+NextDays/scripts/5_Mission/mission\alp_missionserver.c:26
+scripts/3_Game/dayzgame.c:2328
+
+Runtime mode
+CLI params: port 2442 mod @CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VPPMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv4;@FlipTransport;@GoreZ;@IRP;@KillFeed;@NoVehicleDamage;@PartyMe;@Modular_Vest_System;@MuchStuffPack;@SWP;@BreachingCharge;@BBPBreachCharge;@MunghardsItempack;@NDVPPM;@Next_Days;@Notes;@Repair_My_Car;@SQUAD_MSF-C;@Zeroy-FishingZ;@OP_BaseItems;@Base_Storage; config D:\DayZServers\TheCommunity_enochTest\TheCommunityDZTest.cfg profiles TheEnochTestServer BEPath D:\DayZServers\TheCommunity_enochTest\battleye filePatching  adminlog  netlog  freezecheck  scrAllowFileWrite  
+
+
+------------------------------------
+R16RK4U17-3, 13.04 2020 00:27:36
+NULL pointer to instance
+Class:      'PermissionManager'
+Function: 'HasPermission'
+Stack trace:
+JM/COT/Scripts/4_World/communityonlinetools\permissions-framework\permissionmanager.c:114
+JM/COT/Scripts/5_Mission/communityonlinetools\permissionsframework.c:246
+JM/CF/Scripts/3_Game/communityframework\rpc\rpcmanager.c:244
+scripts/3_Game/dayzgame.c:2374
+
+Runtime mode
+CLI params: port 2442 mod @CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VPPMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv4;@FlipTransport;@GoreZ;@IRP;@KillFeed;@NoVehicleDamage;@PartyMe;@Modular_Vest_System;@MuchStuffPack;@SWP;@BreachingCharge;@BBPBreachCharge;@MunghardsItempack;@NDVPPM;@Next_Days;@Notes;@Repair_My_Car;@SQUAD_MSF-C;@Zeroy-FishingZ;@OP_BaseItems;@Base_Storage; config D:\DayZServers\TheCommunity_enochTest\TheCommunityDZTest.cfg profiles TheEnochTestServer BEPath D:\DayZServers\TheCommunity_enochTest\battleye filePatching  adminlog  netlog  freezecheck  scrAllowFileWrite  
+
+
+------------------------------------
+R16RK4U17-3, 13.04 2020 00:27:36
+NULL pointer to instance
+Class:      'PermissionManager'
+Function: 'HasPermission'
+Stack trace:
+JM/COT/Scripts/4_World/communityonlinetools\permissions-framework\permissionmanager.c:114
+JM/COT/Scripts/5_Mission/communityonlinetools\modules\cotmap\cotmap.c:31
+JM/CF/Scripts/3_Game/communityframework\rpc\rpcmanager.c:244
+scripts/3_Game/dayzgame.c:2374
+
+Runtime mode
+CLI params: port 2442 mod @CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VPPMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv4;@FlipTransport;@GoreZ;@IRP;@KillFeed;@NoVehicleDamage;@PartyMe;@Modular_Vest_System;@MuchStuffPack;@SWP;@BreachingCharge;@BBPBreachCharge;@MunghardsItempack;@NDVPPM;@Next_Days;@Notes;@Repair_My_Car;@SQUAD_MSF-C;@Zeroy-FishingZ;@OP_BaseItems;@Base_Storage; config D:\DayZServers\TheCommunity_enochTest\TheCommunityDZTest.cfg profiles TheEnochTestServer BEPath D:\DayZServers\TheCommunity_enochTest\battleye filePatching  adminlog  netlog  freezecheck  scrAllowFileWrite  
+
+
+------------------------------------
+R16RK4U17-3, 13.04 2020 00:27:36
+NULL pointer to instance
+Class:      'PermissionManager'
+Function: 'HasPermission'
+Stack trace:
+JM/COT/Scripts/4_World/communityonlinetools\permissions-framework\permissionmanager.c:114
+JM/COT/Scripts/5_Mission/communityonlinetools\modules\camera\cameratool.c:91
+JM/CF/Scripts/3_Game/communityframework\rpc\rpcmanager.c:244
+scripts/3_Game/dayzgame.c:2374
+
+Runtime mode
+CLI params: port 2442 mod @CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VPPMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv4;@FlipTransport;@GoreZ;@IRP;@KillFeed;@NoVehicleDamage;@PartyMe;@Modular_Vest_System;@MuchStuffPack;@SWP;@BreachingCharge;@BBPBreachCharge;@MunghardsItempack;@NDVPPM;@Next_Days;@Notes;@Repair_My_Car;@SQUAD_MSF-C;@Zeroy-FishingZ;@OP_BaseItems;@Base_Storage; config D:\DayZServers\TheCommunity_enochTest\TheCommunityDZTest.cfg profiles TheEnochTestServer BEPath D:\DayZServers\TheCommunity_enochTest\battleye filePatching  adminlog  netlog  freezecheck  scrAllowFileWrite  
+
+
+------------------------------------
+R16RK4U17-3, 13.04 2020 00:35:41
+
+[desync] HandleInputData man=SurvivorM_Manua:017 CANNOT move cmd=SYNC_MOVE src={ type=GROUND item=Mag_m82_10Rnd:017588 pos=(6371.56, 211.713, 10099.8) dir=(0.629572, -0.420768, -0.463798, -0.459892) } dst={ type=CARGO item=Mag_m82_10Rnd:017588 parent=Hikingbagmung_pink:013877 idx=0 row=0 col=7 f=false }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:486
+scripts/4_World/systems\inventory\dayzplayerinventory.c:357
+
+Runtime mode
+CLI params: port 2442 mod @CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VPPMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv4;@FlipTransport;@GoreZ;@IRP;@KillFeed;@NoVehicleDamage;@PartyMe;@Modular_Vest_System;@MuchStuffPack;@SWP;@BreachingCharge;@BBPBreachCharge;@MunghardsItempack;@NDVPPM;@Next_Days;@Notes;@Repair_My_Car;@SQUAD_MSF-C;@Zeroy-FishingZ;@OP_BaseItems;@Base_Storage; config D:\DayZServers\TheCommunity_enochTest\TheCommunityDZTest.cfg profiles TheEnochTestServer BEPath D:\DayZServers\TheCommunity_enochTest\battleye filePatching  adminlog  netlog  freezecheck  scrAllowFileWrite  
+
+
+------------------------------------
+R16RK4U17-3, 13.04 2020 01:27:53
+NULL pointer to instance
+Class:      'DayZPlayerInventory'
+Function: 'HandleInputData'
+Stack trace:
+scripts/4_World/systems\inventory\dayzplayerinventory.c:446
+scripts/4_World/systems\inventory\dayzplayerinventory.c:357
+
+Runtime mode
+CLI params: port 2442 mod @CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VPPMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv4;@FlipTransport;@GoreZ;@IRP;@KillFeed;@NoVehicleDamage;@PartyMe;@Modular_Vest_System;@MuchStuffPack;@SWP;@BreachingCharge;@BBPBreachCharge;@MunghardsItempack;@NDVPPM;@Next_Days;@Notes;@Repair_My_Car;@SQUAD_MSF-C;@Zeroy-FishingZ;@OP_BaseItems;@Base_Storage; config D:\DayZServers\TheCommunity_enochTest\TheCommunityDZTest.cfg profiles TheEnochTestServer BEPath D:\DayZServers\TheCommunity_enochTest\battleye filePatching  adminlog  netlog  freezecheck  scrAllowFileWrite  
+
+
+------------------------------------
+R16RK4U17-3, 13.04 2020 01:27:54
+NULL pointer to instance
+Class:      'ActionDeployObject'
+Function: 'OnEndServer'
+Stack trace:
+ModularVestSystem/scripts/4_World/armorrack_actiondeployobject.c:5
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:437
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:36
+
+Runtime mode
+CLI params: port 2442 mod @CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VPPMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv4;@FlipTransport;@GoreZ;@IRP;@KillFeed;@NoVehicleDamage;@PartyMe;@Modular_Vest_System;@MuchStuffPack;@SWP;@BreachingCharge;@BBPBreachCharge;@MunghardsItempack;@NDVPPM;@Next_Days;@Notes;@Repair_My_Car;@SQUAD_MSF-C;@Zeroy-FishingZ;@OP_BaseItems;@Base_Storage; config D:\DayZServers\TheCommunity_enochTest\TheCommunityDZTest.cfg profiles TheEnochTestServer BEPath D:\DayZServers\TheCommunity_enochTest\battleye filePatching  adminlog  netlog  freezecheck  scrAllowFileWrite  
+---------------------------------------------
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\crash_2020-04-13_04-03-17.log started at 13.04. 04:04:32
+
+
+
+------------------------------------
+R16RK4U17-3, 13.04 2020 04:04:32
+
+JSON ERROR:
+Expect a value here.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/3_Game/tools\jsonfileloader.c:29
+NextDays/scripts/5_Mission/messages.c:31
+NextDays/scripts/5_Mission/mission\alp_missionserver.c:26
+scripts/3_Game/dayzgame.c:2328
+
+Runtime mode
+CLI params: port 2442 mod @CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VPPMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv4;@FlipTransport;@GoreZ;@IRP;@KillFeed;@NoVehicleDamage;@PartyMe;@Modular_Vest_System;@MuchStuffPack;@SWP;@BreachingCharge;@BBPBreachCharge;@MunghardsItempack;@NDVPPM;@Next_Days;@Notes;@Repair_My_Car;@SQUAD_MSF-C;@Zeroy-FishingZ;@OP_BaseItems;@Base_Storage; config D:\DayZServers\TheCommunity_enochTest\TheCommunityDZTest.cfg profiles TheEnochTestServer BEPath D:\DayZServers\TheCommunity_enochTest\battleye filePatching  adminlog  netlog  freezecheck  scrAllowFileWrite  
+---------------------------------------------
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\crash_2020-04-13_07-16-38.log started at 13.04. 07:18:23
+
+
+
+------------------------------------
+R16RK4U17-3, 13.04 2020 07:18:23
+
+JSON ERROR:
+Expect a value here.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/3_Game/tools\jsonfileloader.c:29
+NextDays/scripts/5_Mission/messages.c:31
+NextDays/scripts/5_Mission/mission\alp_missionserver.c:26
+scripts/3_Game/dayzgame.c:2328
+
+Runtime mode
+CLI params: port 2442 mod @CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VPPMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv4;@FlipTransport;@GoreZ;@IRP;@KillFeed;@NoVehicleDamage;@PartyMe;@Modular_Vest_System;@MuchStuffPack;@SWP;@BreachingCharge;@BBPBreachCharge;@MunghardsItempack;@NDVPPM;@Next_Days;@Notes;@Repair_My_Car;@SQUAD_MSF-C;@Zeroy-FishingZ;@OP_BaseItems;@Base_Storage; config D:\DayZServers\TheCommunity_enochTest\TheCommunityDZTest.cfg profiles TheEnochTestServer BEPath D:\DayZServers\TheCommunity_enochTest\battleye filePatching  adminlog  netlog  freezecheck  scrAllowFileWrite  
+
+
+------------------------------------
+R16RK4U17-3, 13.04 2020 07:18:23
+
+JSON ERROR:
+Expect a value here.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/3_Game/tools\jsonfileloader.c:29
+NextDays/scripts/4_World/classes\nextdays\infosites.c:20
+NextDays/scripts/5_Mission/mission\alp_missionserver.c:28
+scripts/3_Game/dayzgame.c:2328
+
+Runtime mode
+CLI params: port 2442 mod @CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VPPMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv4;@FlipTransport;@GoreZ;@IRP;@KillFeed;@NoVehicleDamage;@PartyMe;@Modular_Vest_System;@MuchStuffPack;@SWP;@BreachingCharge;@BBPBreachCharge;@MunghardsItempack;@NDVPPM;@Next_Days;@Notes;@Repair_My_Car;@SQUAD_MSF-C;@Zeroy-FishingZ;@OP_BaseItems;@Base_Storage; config D:\DayZServers\TheCommunity_enochTest\TheCommunityDZTest.cfg profiles TheEnochTestServer BEPath D:\DayZServers\TheCommunity_enochTest\battleye filePatching  adminlog  netlog  freezecheck  scrAllowFileWrite  
+
