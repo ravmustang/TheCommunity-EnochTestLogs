@@ -1,0 +1,56 @@
+---------------------------------------------
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\crash_2020-04-13_21-02-45.log started at 13.04. 21:03:35
+
+
+
+------------------------------------
+R16RK4U17-3, 13.04 2020 21:03:35
+
+JSON ERROR:
+Must be a comma or '}' after an object member
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/3_Game/tools\jsonfileloader.c:29
+JM/COT/Scripts/5_Mission/communityonlinetools\modules\teleport\teleportsettings.c:18
+JM/COT/Scripts/5_Mission/communityonlinetools\modules\teleport\teleportmodule.c:26
+JM/COT/Scripts/4_World/communityonlinetools\module-framework\modulemanager.c:48
+JM/COT/Scripts/5_Mission/communityonlinetools\communityonlinetools.c:106
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:29
+
+Runtime mode
+CLI params: port 2442 mod @CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VPPMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv4;@Repair_My_Car;@FlipTransport;@GoreZ;@IRP;@KillFeed;@NoVehicleDamage;@PartyMe;@Modular_Vest_System;@MuchStuffPack;@SWP;@BreachingCharge;@BBPBreachCharge;@MunghardsItempack;@NDVPPM;@Next_Days;@Notes;@SQUAD_MSF-C;@Zeroy-FishingZ;@OP_BaseItems;@Base_Storage; config D:\DayZServers\TheCommunity_enochTest\TheCommunityDZTest.cfg profiles TheEnochTestServer BEPath D:\DayZServers\TheCommunity_enochTest\battleye filePatching  adminlog  netlog  freezecheck  scrAllowFileWrite  
+---------------------------------------------
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\crash_2020-04-13_21-29-13.log started at 13.04. 21:37:36
+
+
+
+------------------------------------
+R16RK4U17-3, 13.04 2020 21:37:36
+NULL pointer to instance
+Class:      'VehicleSpawnerModule'
+Function: 'SpawnVehicle'
+Stack trace:
+JM/COT/Scripts/5_Mission/communityonlinetools\modules\vehiclespawner\vehiclespawnermodule.c:106
+JM/COT/Scripts/5_Mission/communityonlinetools\modules\vehiclespawner\vehiclespawnermodule.c:130
+JM/CF/Scripts/3_Game/communityframework\rpc\rpcmanager.c:244
+scripts/3_Game/dayzgame.c:2374
+
+Runtime mode
+CLI params: port 2442 mod @CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VPPMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv4;@FlipTransport;@GoreZ;@IRP;@KillFeed;@NoVehicleDamage;@PartyMe;@Modular_Vest_System;@MuchStuffPack;@SWP;@BreachingCharge;@BBPBreachCharge;@MunghardsItempack;@NDVPPM;@Next_Days;@Notes;@SQUAD_MSF-C;@Zeroy-FishingZ;@OP_BaseItems;@Base_Storage; config D:\DayZServers\TheCommunity_enochTest\TheCommunityDZTest.cfg profiles TheEnochTestServer BEPath D:\DayZServers\TheCommunity_enochTest\battleye filePatching  adminlog  netlog  freezecheck  scrAllowFileWrite  
+
+
+------------------------------------
+R16RK4U17-3, 13.04 2020 21:37:36
+NULL pointer to instance
+Class:      'VehicleSpawnerModule'
+Function: 'SpawnVehicle'
+Stack trace:
+JM/COT/Scripts/5_Mission/communityonlinetools\modules\vehiclespawner\vehiclespawnermodule.c:106
+JM/COT/Scripts/5_Mission/communityonlinetools\modules\vehiclespawner\vehiclespawnermodule.c:130
+JM/CF/Scripts/3_Game/communityframework\rpc\rpcmanager.c:244
+scripts/3_Game/dayzgame.c:2374
+
+Runtime mode
+CLI params: port 2442 mod @CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VPPMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv4;@FlipTransport;@GoreZ;@IRP;@KillFeed;@NoVehicleDamage;@PartyMe;@Modular_Vest_System;@MuchStuffPack;@SWP;@BreachingCharge;@BBPBreachCharge;@MunghardsItempack;@NDVPPM;@Next_Days;@Notes;@SQUAD_MSF-C;@Zeroy-FishingZ;@OP_BaseItems;@Base_Storage; config D:\DayZServers\TheCommunity_enochTest\TheCommunityDZTest.cfg profiles TheEnochTestServer BEPath D:\DayZServers\TheCommunity_enochTest\battleye filePatching  adminlog  netlog  freezecheck  scrAllowFileWrite  
+
